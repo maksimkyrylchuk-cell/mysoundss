@@ -1,1 +1,25 @@
-# mysoundss
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+  <meta charset="UTF-8">
+
+  <title>Play</title>
+
+</head>
+
+<body style="background:black; color:white; text-align:center; margin-top:50px;">
+
+  <h1>🔊 Tap to play</h1>
+
+  <audio autoplay controls>
+
+    <source src="sound.mp3" type="audio/mpeg">
+
+  </audio>
+
+</body>
+
+</html>
